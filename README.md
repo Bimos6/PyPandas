@@ -36,5 +36,5 @@
 ## Установка и запуск
 
 ```bash
-pip install pandas numpy openpyxl
+pip install -r requirements.txt
 python main.py
